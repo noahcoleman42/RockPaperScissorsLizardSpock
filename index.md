@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Rock Paper Scissors Lizard Spock
 
-You can use the [editor on GitHub](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this [video](https://youtu.be/x5Q6-wMx-K8?t=19), the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png)
 
-### Markdown
+The game is played as follows:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. The player chooses a hand either numerically by choosing a number between 1 and 5, or by entering the name of the hand shape chosen.
+2. The computer randomly chooses a shape to throw
+3. The round winner is determined
+4. A point is awarded to the winner of the round.
+5. Gameplay continues until either the player or the computer reach 3 rounds won in which the winner of the game is determined.
