@@ -2,7 +2,7 @@
 
 This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this [video](https://youtu.be/x5Q6-wMx-K8?t=19), the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored. 
 
-![Image](https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png)
+![Vectors pointing from winning to losing hand shapes](https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png)
 
 The game is played as follows:
 
