@@ -11,4 +11,5 @@ The game is played as follows:
 4. A point is awarded to the winner of the round.
 5. Gameplay continues until either the player or the computer reach 3 rounds won in which the winner of the game is determined.
 
+## Try it out
 To play for yourself, clone the repository and run RockPaperScissorsLizardSpock.exe from \\bin\\Debug\\.
